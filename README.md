@@ -38,10 +38,14 @@ Computer Science and Systems Engineering student at San Carlos University of Gua
 
     
 <!--- stats -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidVelasquez77)](https://github.com/DavidVelasquez77/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVelasquez77&layout=compact)](https://github.com/DavidVelasquez77/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/DavidVelasquez77/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidVelasquez77"/>
+  </a>
+  <a href="https://github.com/DavidVelasquez77/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVelasquez77&layout=compact"/>
+  </a>
+</div>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
