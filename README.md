@@ -38,7 +38,7 @@ Computer Science and Systems Engineering student at San Carlos University of Gua
 
     
 <!--- stats -->
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidVela77&show_icons=true&theme=radical)
+![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidVelasquez77&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVelasquez77)](https://github.com/DavidVelasquez77/github-readme-stats)
 <!--h1 without bottom border-->
