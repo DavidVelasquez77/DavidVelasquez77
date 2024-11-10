@@ -81,7 +81,7 @@ Computer Science and Systems Engineering student at San Carlos University of Gua
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,docker,express,figma,github,html,java,js,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,fortran&perline=14" />
   </a>
 </p>
 
