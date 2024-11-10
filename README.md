@@ -59,11 +59,7 @@ Computer Science and Systems Engineering student at San Carlos University of Gua
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=DavidVelasquez77&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVelasquez77&langs_count=8)](https://github.com/DavidVelasquez77/github-readme-stats)
 <!--- trophy (start) -->
 
 
@@ -110,6 +106,6 @@ Computer Science and Systems Engineering student at San Carlos University of Gua
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVelasquez77&langs_count=8)](https://github.com/DavidVelasquez77/github-readme-stats)
+
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
