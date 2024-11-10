@@ -110,6 +110,6 @@ Computer Science and Systems Engineering student at San Carlos University of Gua
 </div>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVelasquez77&langs_count=8)](https://github.com/DavidVelasquez77/github-readme-stats)
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
