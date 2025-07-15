@@ -20,7 +20,7 @@
 
 <!--Intro start-->
 ## About Me
-Computer Science and Systems Engineering student at San Carlos University of Guatemala (USAC), currently in my fifth semester. Passionate about software development and creative problem-solving through technology.
+Computer Science and Systems Engineering student at San Carlos University of Guatemala (USAC), currently in my seventh semester. Passionate about software development and creative problem-solving through technology.
 
 ## 🎯 Professional Focus
 - 💡 Specialized in developing innovative technological solutions
