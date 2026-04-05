@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗  █████╗ ██╗   ██╗██╗██████╗     ██╗   ██╗
-██╔══██╗██╔══██╗██║   ██║██║██╔══██╗    ██║   ██║
-██║  ██║███████║██║   ██║██║██║  ██║    ██║   ██║
-██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║    ╚██╗ ██╔╝
-██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝     ╚████╔╝ 
-╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝       ╚═══╝  
+██████╗  █████╗ ██╗   ██╗██╗██████╗ 
+██╔══██╗██╔══██╗██║   ██║██║██╔══██╗
+██║  ██║███████║██║   ██║██║██║  ██║
+██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║
+██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝
+╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝
 ```
 
 # Hey, I'm David 👋
@@ -34,7 +34,8 @@ I'm a **Computer Science & Systems Engineering** student at the **University of 
 
 ## 🚀 Tech Stack
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,13 +43,15 @@ I'm a **Computer Science & Systems Engineering** student at the **University of 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Tools & Platforms
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -62,28 +65,19 @@ I'm a **Computer Science & Systems Engineering** student at the **University of 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavidVelasquez77&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVelasquez77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidVelasquez77&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DavidVelasquez77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
----
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidVelasquez77&theme=tokyonight&hide_border=true"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidVelasquez77&theme=darkhub&no-frame=true&margin-w=15&column=6"/>
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVelasquez77&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVelasquez77&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
@@ -101,7 +95,9 @@ I'm a **Computer Science & Systems Engineering** student at the **University of 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidVelasquez77&color=00c896&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  
-  *Thanks for visiting! Let's build something cool together.* 🚀
+
+<img src="https://komarev.com/ghpvc/?username=DavidVelasquez77&color=00c896&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+*Thanks for visiting! Let's build something cool together.* 🚀
+
 </div>
