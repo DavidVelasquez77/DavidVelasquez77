@@ -75,7 +75,7 @@ I'm a **Computer Science & Systems Engineering** student at the **University of 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidVelasquez77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DavidVelasquez77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7"/>
 </div>
 
 ---
